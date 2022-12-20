@@ -1,0 +1,22 @@
+# Blender 3.4.0 MTL File: 'coins.blend'
+# www.blender.org
+
+newmtl Donut.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd coin_003_Donut_BaseColor.png
+
+newmtl Frosting.001
+Ns 524.880432
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd coin_003_Frosting_BaseColor.png

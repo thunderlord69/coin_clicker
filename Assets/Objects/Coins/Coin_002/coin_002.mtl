@@ -1,0 +1,13 @@
+# Blender 3.4.0 MTL File: 'coins.blend'
+# www.blender.org
+
+newmtl Material.002
+Ns 404.958679
+Ka 1.000000 1.000000 1.000000
+Ks 0.309091 0.309091 0.309091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd coin_002_Base_BaseColor.png
+map_Bump -bm 0.700000 C:/Users/igorp/Desktop/CrazyHubs/Coins/Coin_001/coin_001_Base_Normal.png

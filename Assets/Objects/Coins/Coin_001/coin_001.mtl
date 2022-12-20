@@ -1,0 +1,18 @@
+# Blender 3.4.0 MTL File: 'coins.blend'
+# www.blender.org
+
+newmtl Material.001
+Ks 0.309091 0.309091 0.309091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+Pr 0.363636
+Pm 1.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd coin_001_Material.001_BaseColor.png
+map_Bump -bm 1.000000 coin_001_Material.001_Normal.png
